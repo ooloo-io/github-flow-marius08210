@@ -22,10 +22,7 @@ footer {
 .content {
   min-height: calc(100vh - 100px);
   width: 720px;
-<<<<<<< HEAD
   max-width: 100%;
-=======
->>>>>>> Add bottom section
   margin: auto;
 }
 
