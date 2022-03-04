@@ -22,5 +22,9 @@ footer {
 .content {
   min-height: calc(100vh - 100px);
   width: 720px;
+<<<<<<< HEAD
+=======
+  max-width: 100%;
+>>>>>>> 7c0232958e9ae3872956a48b316ab2dc5bbd3c8c
   margin: auto;
 }
